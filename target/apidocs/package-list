@@ -1,0 +1,6 @@
+com.nmgtime.logtrace
+com.nmgtime.logtrace.annos
+com.nmgtime.logtrace.context
+com.nmgtime.logtrace.processors
+com.nmgtime.logtrace.processors.custom
+com.nmgtime.logtrace.processors.tree
